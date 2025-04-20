@@ -1,0 +1,1 @@
+Implementación de un modelo de red neuronal para la clasificación y predicción de imágenes (formas geométricas). Para este modelo se utilizó solo el 5% del total de la base de datos para agilizar sus iteraciones, no obstante desde el enlace presente en el código se puede descargar el dataset completo.
